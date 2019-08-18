@@ -1,8 +1,6 @@
 E.T.L
 08/17/2019
 ─
-Natalie Odgerel St 
-Banafsheh Vafaeenia
 ________________________________________
 UCB Data Analysis and Visualization
 
